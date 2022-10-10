@@ -19,3 +19,9 @@ ruby -v
 rails -v
 bundler -v
 pg_config --version
+
+Creando la app: 
+
+rails help
+rails new askdemos -j=importmap -c=tailwind -d=postgresql
+rails new askdemos -j=importmap -c=bootstrap -d=postgresql
