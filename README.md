@@ -23,3 +23,8 @@ pg_config --version
 Creando la app: 
 
 rails new askdemos -j=importmap -c=bootstrap -d=postgresql
+
+
+# Heroku CLI
+
+heroku login -i
