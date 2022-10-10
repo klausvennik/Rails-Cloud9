@@ -43,7 +43,6 @@ heroku login -i
 8. Bundle install
 9. En el directorio hello_app>config>enviroments>development.rb pegar antes del end:
 
-# Allow connections to local server.
 config.hosts.clear
 
 10. En app/controllers/application_controller.rb agregar:
