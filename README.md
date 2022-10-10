@@ -28,3 +28,5 @@ rails new app -j=importmap -c=bootstrap -d=postgresql
 # Heroku CLI
 
 heroku login -i
+
+( usar correo y API key)
